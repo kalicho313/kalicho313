@@ -47,5 +47,11 @@ summary{
     font-family: 'Fira Mono', monospace; 
     font-size: 16px;
     color:#4169e1;
-    text-decoration: underline;
+    
+}
+p{
+    font-family: 'Fira Mono', monospace; 
+    font-size:14px; 
+    color:#ff6e12;
+    text-decoration:underline;
 }
